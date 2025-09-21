@@ -2,4 +2,11 @@
     <string name="app_name">Android2025</string>
     <string name="hello_android_2025">Welcome, Android 2025!</string>
     <string name="from_2apps">MadeBy 2apps</string>
+    <string name="article_title">Article</string>
+    <string name="article_content">
+    This is a sample article description for Android 2025 application.
+    It demonstrates how to use string resources in an Android app.
+    You can customize this text as needed for your application.
+    </string>
+
 </resources>
